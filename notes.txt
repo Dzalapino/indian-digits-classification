@@ -1,3 +1,0 @@
-only digits
-
-We can train it traditionally, treating individual pixels as features and then using cnn and comparing both approaches
